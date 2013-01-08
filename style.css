@@ -1,0 +1,44 @@
+@media screen {
+	body {
+		font-family: "Electrolize", sans-serif;
+		}
+
+		h1 
+		{font-family: Electrolize, serif;
+		color: #000000;
+		background-color:
+}
+
+ul {list-style: none;
+	margin-left:0;
+	padding-left:0;}
+
+	a:link {
+		color: ##800000;
+
+	}
+	a:visited {
+		color: #CC3300;
+	}
+	a:hover {}
+	a:focus {}
+	a:active {}
+
+@media screen and (mind-width: 480px) {
+
+}
+
+@media screen and (min-width: 768px) {
+	body {
+		width: 700px;
+		margin: 20px auto;
+	}
+
+	li {
+		display:inline; 
+	}
+}
+
+@media screen and (min-width: 992px) {
+
+}
